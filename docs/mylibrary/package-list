@@ -1,0 +1,79 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.garpix.extension.constant////PointingToDeclaration/mylibrary/com.garpix.extension.constant/index.html
+$dokka.location:com.garpix.extension.constant/GarpixConstant///PointingToDeclaration/mylibrary/com.garpix.extension.constant/-garpix-constant/index.html
+$dokka.location:com.garpix.extension.constant/GarpixConstant/DATE_PATTERN_1/#/PointingToDeclaration/mylibrary/com.garpix.extension.constant/-garpix-constant/-d-a-t-e_-p-a-t-t-e-r-n_1.html
+$dokka.location:com.garpix.extension.constant/GarpixConstant/DATE_PATTERN_2/#/PointingToDeclaration/mylibrary/com.garpix.extension.constant/-garpix-constant/-d-a-t-e_-p-a-t-t-e-r-n_2.html
+$dokka.location:com.garpix.extension.constant/GarpixConstant/DATE_PATTERN_3/#/PointingToDeclaration/mylibrary/com.garpix.extension.constant/-garpix-constant/-d-a-t-e_-p-a-t-t-e-r-n_3.html
+$dokka.location:com.garpix.extension.constant/GarpixConstant/DATE_PATTERN_4/#/PointingToDeclaration/mylibrary/com.garpix.extension.constant/-garpix-constant/-d-a-t-e_-p-a-t-t-e-r-n_4.html
+$dokka.location:com.garpix.extension.constant/GarpixConstant/DATE_PATTERN_5/#/PointingToDeclaration/mylibrary/com.garpix.extension.constant/-garpix-constant/-d-a-t-e_-p-a-t-t-e-r-n_5.html
+$dokka.location:com.garpix.extension.constant/GarpixConstant/DATE_PATTERN_6/#/PointingToDeclaration/mylibrary/com.garpix.extension.constant/-garpix-constant/-d-a-t-e_-p-a-t-t-e-r-n_6.html
+$dokka.location:com.garpix.extension.contextExtension////PointingToDeclaration/mylibrary/com.garpix.extension.contextExtension/index.html
+$dokka.location:com.garpix.extension.contextExtension//copyToClipBoard/android.content.Context#kotlin.String#kotlin.String/PointingToDeclaration/mylibrary/com.garpix.extension.contextExtension/copy-to-clip-board.html
+$dokka.location:com.garpix.extension.contextExtension//vibrate/android.content.Context#kotlin.Long/PointingToDeclaration/mylibrary/com.garpix.extension.contextExtension/vibrate.html
+$dokka.location:com.garpix.extension.dataExtension////PointingToDeclaration/mylibrary/com.garpix.extension.dataExtension/index.html
+$dokka.location:com.garpix.extension.dataExtension//capitalizeAllWords/kotlin.String#/PointingToDeclaration/mylibrary/com.garpix.extension.dataExtension/capitalize-all-words.html
+$dokka.location:com.garpix.extension.dataExtension//getFileExtensionFromName/kotlin.String#/PointingToDeclaration/mylibrary/com.garpix.extension.dataExtension/get-file-extension-from-name.html
+$dokka.location:com.garpix.extension.dataExtension//rawPhoneNumber/kotlin.String#/PointingToDeclaration/mylibrary/com.garpix.extension.dataExtension/raw-phone-number.html
+$dokka.location:com.garpix.extension.dataExtension//sizeOfFile/kotlin.String#/PointingToDeclaration/mylibrary/com.garpix.extension.dataExtension/size-of-file.html
+$dokka.location:com.garpix.extension.fileExtension////PointingToDeclaration/mylibrary/com.garpix.extension.fileExtension/index.html
+$dokka.location:com.garpix.extension.fileExtension//createFileFromStream/#java.io.InputStream#java.io.File?/PointingToDeclaration/mylibrary/com.garpix.extension.fileExtension/create-file-from-stream.html
+$dokka.location:com.garpix.extension.fileExtension//extension/java.io.File#/PointingToDeclaration/mylibrary/com.garpix.extension.fileExtension/extension.html
+$dokka.location:com.garpix.extension.fileExtension//getFile/android.net.Uri#android.content.Context/PointingToDeclaration/mylibrary/com.garpix.extension.fileExtension/get-file.html
+$dokka.location:com.garpix.extension.fileExtension//queryName/#android.content.Context#android.net.Uri/PointingToDeclaration/mylibrary/com.garpix.extension.fileExtension/query-name.html
+$dokka.location:com.garpix.extension.fileExtension//size/java.io.File#/PointingToDeclaration/mylibrary/com.garpix.extension.fileExtension/size.html
+$dokka.location:com.garpix.extension.fileExtension//toBitmap/android.net.Uri#android.app.Activity/PointingToDeclaration/mylibrary/com.garpix.extension.fileExtension/to-bitmap.html
+$dokka.location:com.garpix.extension.resourceExtension////PointingToDeclaration/mylibrary/com.garpix.extension.resourceExtension/index.html
+$dokka.location:com.garpix.extension.resourceExtension//addCustomMarker/com.google.android.gms.maps.GoogleMap#android.content.Context#com.google.android.gms.maps.model.LatLng#kotlin.String#kotlin.Int/PointingToDeclaration/mylibrary/com.garpix.extension.resourceExtension/add-custom-marker.html
+$dokka.location:com.garpix.extension.resourceExtension//bitmapDescriptorFromVector/#android.content.Context#kotlin.Int/PointingToDeclaration/mylibrary/com.garpix.extension.resourceExtension/bitmap-descriptor-from-vector.html
+$dokka.location:com.garpix.extension.resourceExtension//toDp/kotlin.Int#/PointingToDeclaration/mylibrary/com.garpix.extension.resourceExtension/to-dp.html
+$dokka.location:com.garpix.extension.resourceExtension//toPx/kotlin.Int#/PointingToDeclaration/mylibrary/com.garpix.extension.resourceExtension/to-px.html
+$dokka.location:com.garpix.extension.viewExtension////PointingToDeclaration/mylibrary/com.garpix.extension.viewExtension/index.html
+$dokka.location:com.garpix.extension.viewExtension//focusAndShowKeyboard/android.view.View#/PointingToDeclaration/mylibrary/com.garpix.extension.viewExtension/focus-and-show-keyboard.html
+$dokka.location:com.garpix.extension.viewExtension//hideKeyboard/android.app.Activity#/PointingToDeclaration/mylibrary/com.garpix.extension.viewExtension/hide-keyboard.html
+$dokka.location:com.garpix.extension.viewExtension//hideKeyboard/android.view.View#/PointingToDeclaration/mylibrary/com.garpix.extension.viewExtension/hide-keyboard.html
+$dokka.location:com.garpix.extension.viewExtension//setThrottleOnClickListener/android.view.View#kotlin.Long#kotlin.Function1[android.view.View,kotlin.Unit]/PointingToDeclaration/mylibrary/com.garpix.extension.viewExtension/set-throttle-on-click-listener.html
+$dokka.location:com.garpix.extension.viewExtension//showLongToast/android.content.Context#kotlin.String/PointingToDeclaration/mylibrary/com.garpix.extension.viewExtension/show-long-toast.html
+$dokka.location:com.garpix.extension.viewExtension//showShortToast/android.content.Context#kotlin.String/PointingToDeclaration/mylibrary/com.garpix.extension.viewExtension/show-short-toast.html
+$dokka.location:com.garpix.extension.units////PointingToDeclaration/mylibrary/com.garpix.extension.units/index.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_1///PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_1/index.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_1/name/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_1/name.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_1/ordinal/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_1/ordinal.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_1/value/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_1/value.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_2///PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_2/index.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_2/name/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_2/name.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_2/ordinal/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_2/ordinal.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_2/value/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_2/value.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_3///PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_3/index.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_3/name/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_3/name.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_3/ordinal/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_3/ordinal.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_3/value/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_3/value.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_4///PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_4/index.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_4/name/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_4/name.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_4/ordinal/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_4/ordinal.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_4/value/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_4/value.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_5///PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_5/index.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_5/name/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_5/name.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_5/ordinal/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_5/ordinal.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_5/value/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_5/value.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_6///PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_6/index.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_6/name/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_6/name.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_6/ordinal/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_6/ordinal.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit.PATTERN_6/value/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-p-a-t-t-e-r-n_6/value.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit///PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/index.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit/GarpixDateUnit/#kotlin.String/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/-garpix-date-unit.html
+$dokka.location:com.garpix.extension.units/GarpixDateUnit/value/#/PointingToDeclaration/mylibrary/com.garpix.extension.units/-garpix-date-unit/value.html
+$dokka.location:com.garpix.extension.validator////PointingToDeclaration/mylibrary/com.garpix.extension.validator/index.html
+$dokka.location:com.garpix.extension.validator//formatDate/kotlin.String#com.garpix.extension.units.GarpixDateUnit#com.garpix.extension.units.GarpixDateUnit/PointingToDeclaration/mylibrary/com.garpix.extension.validator/format-date.html
+$dokka.location:com.garpix.extension.validator//isEmailValid/kotlin.String#/PointingToDeclaration/mylibrary/com.garpix.extension.validator/is-email-valid.html
+$dokka.location:com.garpix.extension.validator//isValidDate/kotlin.String#com.garpix.extension.units.GarpixDateUnit/PointingToDeclaration/mylibrary/com.garpix.extension.validator/is-valid-date.html
+$dokka.location:com.garpix.extension.validator//toData/kotlin.String#com.garpix.extension.units.GarpixDateUnit/PointingToDeclaration/mylibrary/com.garpix.extension.validator/to-data.html
+com.garpix.extension.constant
+com.garpix.extension.contextExtension
+com.garpix.extension.dataExtension
+com.garpix.extension.fileExtension
+com.garpix.extension.resourceExtension
+com.garpix.extension.viewExtension
+com.garpix.extension.units
+com.garpix.extension.validator
+
