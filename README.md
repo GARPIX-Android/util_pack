@@ -19,7 +19,7 @@ allprojects {
 
 Step 2. Add the dependency
 ```gradle
-implementation 'com.github.GARPIX-Android:util_pack:1.0.1'
+implementation 'com.github.GARPIX-Android:util_pack:1.0.0'
 ```
 
 ## Usage
